@@ -1,6 +1,8 @@
 This is the implementation for the paper 
 "Label Consistent Matrix Factorization based Hashing for Cross Modal Retrieval"
 ICIP 2017.
+The poster can be found here : 
+https://sigport.org/documents/label-consistent-matrix-factorization-based-hashing-cross-modal-retrieval
 
 ********************************************************************************
 Please download the datasets as instructed in the paper and put it in a folder titled
