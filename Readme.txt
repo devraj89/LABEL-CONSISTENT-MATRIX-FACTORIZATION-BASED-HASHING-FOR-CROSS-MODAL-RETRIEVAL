@@ -4,6 +4,9 @@ ICIP 2017.
 The poster can be found here : 
 https://sigport.org/documents/label-consistent-matrix-factorization-based-hashing-cross-modal-retrieval
 
+The main paper can be found here 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296813
+
 ********************************************************************************
 Please download the datasets as instructed in the paper and put it in a folder titled
 datasets\ . For help regarding the datasets kindly please drop me a mail.
